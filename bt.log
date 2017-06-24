@@ -1,0 +1,52 @@
+[21/мар/2017:14:33:07,084] INFO  BtRuntimeBuilder: Auto-loading module bt.tracker.http.HttpTrackerModule with default configuration
+[21/мар/2017:14:33:07,086] INFO  BtRuntimeBuilder: Auto-loading module bt.peerexchange.PeerExchangeModule with default configuration
+[21/мар/2017:14:33:07,087] INFO  BtRuntimeBuilder: Overriding auto-loaded module bt.dht.DHTModule
+[21/мар/2017:14:33:08,645] INFO  PeerConnectionPool: Opening server channel for incoming connections @ /172.16.83.164:6891
+[21/мар/2017:14:33:51,995] ERROR MessageDispatcher: Error when reading message from peer: /109.197.30.199:53610
+bt.BtException: Unexpected error when reading message
+	at bt.net.PeerConnectionMessageReader.readMessage(PeerConnectionMessageReader.java:50)
+	at bt.net.DefaultPeerConnection.readMessageNow(DefaultPeerConnection.java:77)
+	at bt.net.MessageDispatcher$Worker.run(MessageDispatcher.java:100)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at bt.net.PeerConnectionMessageReader.readMessage(PeerConnectionMessageReader.java:48)
+	... 5 more
+[21/мар/2017:14:33:52,996] ERROR MessageDispatcher: Error when writing message
+bt.BtException: Unexpected error when writing message
+	at bt.net.PeerConnectionMessageWriter.writeMessage(PeerConnectionMessageWriter.java:68)
+	at bt.net.DefaultPeerConnection.postMessage(DefaultPeerConnection.java:134)
+	at bt.net.MessageDispatcher$Worker.run(MessageDispatcher.java:154)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Программа на вашем хост-компьютере разорвала установленное подключение
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at bt.net.PeerConnectionMessageWriter.writeMessage(PeerConnectionMessageWriter.java:52)
+	... 5 more
+[21/мар/2017:14:34:24,538] ERROR MessageDispatcher: Error when reading message from peer: /83.250.179.25:42995
+bt.BtException: Unexpected error when reading message
+	at bt.net.PeerConnectionMessageReader.readMessage(PeerConnectionMessageReader.java:50)
+	at bt.net.DefaultPeerConnection.readMessageNow(DefaultPeerConnection.java:77)
+	at bt.net.MessageDispatcher$Worker.run(MessageDispatcher.java:100)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at bt.net.PeerConnectionMessageReader.readMessage(PeerConnectionMessageReader.java:48)
+	... 5 more

@@ -1,0 +1,83 @@
+[21/мар/2017:14:33:08,718] DEBUG MldhtService: <INFO> Starting DHT on port 49001
+[21/мар/2017:14:33:08,879] DEBUG MldhtService: <INFO> DNS lookupg for router.silotis.usfailed: router.silotis.us
+[21/мар/2017:14:33:08,937] DEBUG MldhtService: <INFO> Starting RPC Server
+[21/мар/2017:14:33:15,446] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /37.190.126.101:26529)
+[21/мар/2017:14:33:15,447] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /89.178.195.102:62128)
+[21/мар/2017:14:33:15,447] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /95.27.43.215:4103)
+[21/мар/2017:14:33:15,447] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /194.50.24.3:22239)
+[21/мар/2017:14:33:15,479] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /194.50.24.3:22239)
+[21/мар/2017:14:33:15,479] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /31.173.81.114:6889)
+[21/мар/2017:14:33:15,479] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /95.27.43.215:4103)
+[21/мар/2017:14:33:15,479] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /188.191.21.145:21433)
+[21/мар/2017:14:33:15,480] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /91.202.27.116:39304)
+[21/мар/2017:14:33:15,480] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /87.255.31.78:63559)
+[21/мар/2017:14:33:15,480] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /109.197.30.199:53610)
+[21/мар/2017:14:33:15,480] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /91.105.72.203:50325)
+[21/мар/2017:14:33:15,480] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /87.117.13.192:56733)
+[21/мар/2017:14:33:15,480] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /92.112.252.212:50954)
+[21/мар/2017:14:33:15,481] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /188.113.129.69:28682)
+[21/мар/2017:14:33:15,481] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /91.212.173.16:21572)
+[21/мар/2017:14:33:15,481] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /80.82.34.166:48380)
+[21/мар/2017:14:33:15,481] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /68.3.55.17:60648)
+[21/мар/2017:14:33:15,481] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /188.186.45.188:59881)
+[21/мар/2017:14:33:15,481] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /79.110.128.199:61404)
+[21/мар/2017:14:33:15,482] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /89.178.195.102:62128)
+[21/мар/2017:14:33:15,482] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /5.19.244.28:1030)
+[21/мар/2017:14:33:15,482] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /93.205.242.173:1500)
+[21/мар/2017:14:33:15,482] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /85.140.2.162:43480)
+[21/мар/2017:14:33:15,482] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /89.218.135.250:54651)
+[21/мар/2017:14:33:15,482] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /213.5.19.152:46816)
+[21/мар/2017:14:33:15,482] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /109.75.192.68:57700)
+[21/мар/2017:14:33:15,483] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /213.21.45.228:12850)
+[21/мар/2017:14:33:15,483] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /217.175.0.23:1157)
+[21/мар/2017:14:33:15,483] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /178.140.228.107:37230)
+[21/мар/2017:14:33:15,483] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /109.95.74.163:52476)
+[21/мар/2017:14:33:15,483] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /217.77.212.194:48818)
+[21/мар/2017:14:33:15,483] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /79.104.195.13:46708)
+[21/мар/2017:14:33:15,483] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /178.216.222.185:11945)
+[21/мар/2017:14:33:15,485] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /178.88.110.17:32506)
+[21/мар/2017:14:33:15,485] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /83.250.179.25:42995)
+[21/мар/2017:14:33:15,519] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /5.19.244.28:1030)
+[21/мар/2017:14:33:15,519] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /5.19.245.7:16881)
+[21/мар/2017:14:33:15,520] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /5.102.198.122:19374)
+[21/мар/2017:14:33:15,520] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /5.189.30.137:13061)
+[21/мар/2017:14:33:15,520] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /31.40.115.67:5777)
+[21/мар/2017:14:33:15,520] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /31.173.81.114:6889)
+[21/мар/2017:14:33:15,523] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /31.204.178.245:11000)
+[21/мар/2017:14:33:15,523] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /31.207.255.16:16881)
+[21/мар/2017:14:33:15,524] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /37.146.127.7:2743)
+[21/мар/2017:14:33:15,524] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /37.215.15.201:35809)
+[21/мар/2017:14:33:15,524] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /37.215.15.201:59769)
+[21/мар/2017:14:33:15,525] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /46.173.93.7:38997)
+[21/мар/2017:14:33:15,525] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /46.188.76.199:51413)
+[21/мар/2017:14:33:15,525] DEBUG DHTPeerSource: Collected new peer (torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64], peer: /46.211.229.205:56323)
+[21/мар/2017:14:33:15,525] INFO  DHTPeerSource: Peer collection finished for torrent ID: [98, -101, -41, 94, 21, -101, 57, 3, 3, -24, -63, -93, 15, -23, -70, -54, 80, -94, -21, -64]
+[21/мар/2017:14:33:15,974] DEBUG MldhtService: <ERROR> received non-response [ Method:PING Type:ERR_MSG MessageID:0x4717D6BCD3FC/G�����   code:202 errormsg: 'Server Error' id:null] in response to request:  Method:PING Type:REQ_MSG MessageID:0x4717D6BCD3FC/G�����  
+[21/мар/2017:14:33:15,978] DEBUG MldhtService: <ERROR> Error [202] from: /138.68.4.204:6881 Message: "Server Error"
+[21/мар/2017:14:33:28,040] DEBUG MldhtService: <INFO> Estimator: new estimate:10 raw:3.327804285022136 error:0.6616775134785845
+[21/мар/2017:14:33:29,555] DEBUG MldhtService: <ERROR> received non-response [ Method:FIND_NODE Type:ERR_MSG MessageID:0xC46DDB66E86F/�m�f�o   code:202 errormsg: 'Server Error' id:null] in response to request:  Method:FIND_NODE Type:REQ_MSG MessageID:0xC46DDB66E86F/�m�f�o  targetKey:5F3BE705 446CC644 4D3AF8B8 F159E022 3DA13CB9
+[21/мар/2017:14:33:29,555] DEBUG MldhtService: <ERROR> Error [202] from: /52.30.103.161:6892 Message: "Server Error"
+[21/мар/2017:14:33:29,616] DEBUG MldhtService: <ERROR> received non-response [ Method:FIND_NODE Type:ERR_MSG MessageID:0x9A6FCD63389A/�o�c8�   code:202 errormsg: 'Server Error' id:null] in response to request:  Method:FIND_NODE Type:REQ_MSG MessageID:0x9A6FCD63389A/�o�c8�  targetKey:53FE9B86 31A0DCEA 35FD281B 1179F4EE 778F586A
+[21/мар/2017:14:33:29,616] DEBUG MldhtService: <ERROR> Error [202] from: /27.122.59.21:16881 Message: "Server Error"
+[21/мар/2017:14:33:29,774] DEBUG MldhtService: <ERROR> received non-response [ Method:FIND_NODE Type:ERR_MSG MessageID:0x68923927E828/h�9'�(   code:202 errormsg: 'Server Error' id:null] in response to request:  Method:FIND_NODE Type:REQ_MSG MessageID:0x68923927E828/h�9'�(  targetKey:5F3BE705 446CC644 4D3AF8B8 F159E022 3DA13CB9
+[21/мар/2017:14:33:29,775] DEBUG MldhtService: <ERROR> Error [202] from: /103.29.69.245:6881 Message: "Server Error"
+[21/мар/2017:14:33:30,062] DEBUG MldhtService: <ERROR> received non-response [ Method:FIND_NODE Type:ERR_MSG MessageID:0x23B39EF63A23/#���:#   code:202 errormsg: 'Server Error' id:null] in response to request:  Method:FIND_NODE Type:REQ_MSG MessageID:0x23B39EF63A23/#���:#  targetKey:53E4851E 1644C514 FFC04B03 2F2F9499 1A62EDC5
+[21/мар/2017:14:33:30,062] DEBUG MldhtService: <ERROR> Error [202] from: /79.137.104.31:6881 Message: "Server Error"
+[21/мар/2017:14:33:30,766] DEBUG MldhtService: <ERROR> received non-response [ Method:FIND_NODE Type:ERR_MSG MessageID:0xB3F09457E2DB/���W��   code:202 errormsg: 'Server Error' id:null] in response to request:  Method:FIND_NODE Type:REQ_MSG MessageID:0xB3F09457E2DB/���W��  targetKey:53E28EEF 95216BE3 32020FE4 C130A7A1 04E0A635
+[21/мар/2017:14:33:30,767] DEBUG MldhtService: <ERROR> Error [202] from: /133.130.100.79:6881 Message: "Server Error"
+[21/мар/2017:14:33:42,539] DEBUG MldhtService: <ERROR> not sure how to handle message  Method:UNKNOWN Type:RSP_MSG MessageID:0x7C710FECA488/|q����  
+[21/мар/2017:14:33:44,596] DEBUG MldhtService: <INFO> Estimator: new estimate:79 raw:6.306094923454676 error:0.7153522054609939
+[21/мар/2017:14:33:45,083] DEBUG MldhtService: <INFO> Estimator: new estimate:813 raw:9.66855911230379 error:0.7409067014559988
+[21/мар/2017:14:33:48,057] DEBUG MldhtService: <INFO> Estimator: new estimate:6025 raw:12.556768782117675 error:0.747826921503161
+[21/мар/2017:14:33:48,964] DEBUG MldhtService: <INFO> Estimator: new estimate:26033 raw:14.668073466159793 error:0.7433199740510925
+[21/мар/2017:14:33:49,254] DEBUG MldhtService: <INFO> Estimator: new estimate:63731 raw:15.959719791538898 error:0.73121444411094
+[21/мар/2017:14:33:49,539] DEBUG MldhtService: <INFO> Estimator: new estimate:219916 raw:17.74659306206681 error:0.7223519623605728
+[21/мар/2017:14:33:49,946] DEBUG MldhtService: <INFO> Estimator: new estimate:398147 raw:18.602943739657984 error:0.7067943640902268
+[21/мар/2017:14:33:50,006] DEBUG MldhtService: <INFO> Estimator: new estimate:538665 raw:19.03902888085639 error:0.6887558951650021
+[21/мар/2017:14:33:52,100] DEBUG MldhtService: <INFO> Estimator: new estimate:849380 raw:19.69605065093639 error:0.6729249054892545
+[21/мар/2017:14:33:53,411] DEBUG MldhtService: <INFO> Estimator: new estimate:1270886 raw:20.277404062005655 error:0.6570676368746969
+[21/мар/2017:14:33:54,596] DEBUG MldhtService: <INFO> Estimator: new estimate:1563294 raw:20.576157717176777 error:0.6396443705763192
+[21/мар/2017:14:33:55,022] DEBUG MldhtService: <INFO> Estimator: new estimate:1911815 raw:20.86651169148964 error:0.6227558305515852
+[21/мар/2017:14:33:55,204] DEBUG MldhtService: <INFO> Estimator: new estimate:2128537 raw:21.02143093577661 error:0.6053506204147787
+[21/мар/2017:14:34:05,322] DEBUG MldhtService: <ERROR> not sure how to handle message  Method:UNKNOWN Type:RSP_MSG MessageID:0xDA6E5D3590E0/�n]5��  
+[21/мар/2017:14:34:05,472] DEBUG MldhtService: <ERROR> not sure how to handle message  Method:UNKNOWN Type:RSP_MSG MessageID:0x506EB69A124C/Pn���L  

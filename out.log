@@ -1,0 +1,68 @@
+[21/мар/2017:00:31:38,736] INFO  BtRuntimeBuilder: Auto-loading module bt.tracker.http.HttpTrackerModule with default configuration
+[21/мар/2017:00:31:38,739] INFO  BtRuntimeBuilder: Auto-loading module bt.peerexchange.PeerExchangeModule with default configuration
+[21/мар/2017:00:31:44,318] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/charsets.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,319] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,320] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/deploy.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,320] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,321] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/javaws.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,322] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,322] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/jce.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,392] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,392] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/jfr.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,393] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,393] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/jfxswt.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,393] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,394] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/jsse.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,394] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,394] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/management-agent.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,395] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,395] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/plugin.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,396] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,396] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/resources.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,396] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,397] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Program%20Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,397] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,398] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Users/%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9/IdeaProjects/TelegramBot/lib/telegrambots-2.4.4.5-jar-with-dependencies.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,399] DEBUG ClasspathApplicationService: Bundle-SymbolicName: null
+[21/мар/2017:00:31:44,400] DEBUG ClasspathApplicationService: Processing manifest file: jar:file:/C:/Users/%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9/IdeaProjects/TelegramBot/lib/bt-launcher.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,400] DEBUG ClasspathApplicationService: Bundle-SymbolicName: com.github.atomashpolskiy.bt-cli
+[21/мар/2017:00:31:44,400] DEBUG ClasspathApplicationService: Will read version from manifest file: jar:file:/C:/Users/%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9/IdeaProjects/TelegramBot/lib/bt-launcher.jar!/META-INF/MANIFEST.MF
+[21/мар/2017:00:31:44,401] DEBUG ClasspathApplicationService: Bt version 1.1 (Snapshot)
+[21/мар/2017:00:31:44,437] DEBUG DefaultDataDescriptor: Verifying torrent data with 8 workers
+[21/мар/2017:00:31:44,695] DEBUG MessagingAgentCompiler: Compiling messaging agent type: bt.torrent.messaging.GenericConsumer
+[21/мар/2017:00:31:44,698] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.NotInterested}: consume
+[21/мар/2017:00:31:44,699] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Unchoke}: consume
+[21/мар/2017:00:31:44,699] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Cancel}: consume
+[21/мар/2017:00:31:44,699] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Interested}: consume
+[21/мар/2017:00:31:44,699] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Choke}: consume
+[21/мар/2017:00:31:44,700] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.KeepAlive}: consume
+[21/мар/2017:00:31:44,700] DEBUG MessagingAgentCompiler: Compiled 6 consumer/producer methods
+[21/мар/2017:00:31:44,703] DEBUG MessagingAgentCompiler: Compiling messaging agent type: bt.torrent.messaging.BitfieldConsumer
+[21/мар/2017:00:31:44,703] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Bitfield}: consume
+[21/мар/2017:00:31:44,703] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Have}: consume
+[21/мар/2017:00:31:44,703] DEBUG MessagingAgentCompiler: Compiled 2 consumer/producer methods
+[21/мар/2017:00:31:44,703] DEBUG MessagingAgentCompiler: Compiling messaging agent type: bt.torrent.messaging.PieceConsumer
+[21/мар/2017:00:31:44,706] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Piece}: consume
+[21/мар/2017:00:31:44,709] DEBUG MessagingAgentCompiler: Compiled producer method: produce
+[21/мар/2017:00:31:44,709] DEBUG MessagingAgentCompiler: Compiled 2 consumer/producer methods
+[21/мар/2017:00:31:44,711] DEBUG MessagingAgentCompiler: Compiling messaging agent type: bt.torrent.messaging.PeerRequestConsumer
+[21/мар/2017:00:31:44,712] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.Request}: consume
+[21/мар/2017:00:31:44,712] DEBUG MessagingAgentCompiler: Compiled producer method: produce
+[21/мар/2017:00:31:44,712] DEBUG MessagingAgentCompiler: Compiled 2 consumer/producer methods
+[21/мар/2017:00:31:44,713] DEBUG MessagingAgentCompiler: Compiling messaging agent type: bt.torrent.messaging.RequestProducer
+[21/мар/2017:00:31:44,714] DEBUG MessagingAgentCompiler: Compiled producer method: produce
+[21/мар/2017:00:31:44,714] DEBUG MessagingAgentCompiler: Compiled 1 consumer/producer methods
+[21/мар/2017:00:31:44,714] DEBUG MessagingAgentCompiler: Compiling messaging agent type: bt.peerexchange.PeerExchangePeerSourceFactory
+[21/мар/2017:00:31:44,714] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.protocol.extended.ExtendedHandshake}: consume
+[21/мар/2017:00:31:44,714] DEBUG MessagingAgentCompiler: Compiled consumer method {consumedType=bt.peerexchange.PeerExchange}: consume
+[21/мар/2017:00:31:44,714] DEBUG MessagingAgentCompiler: Compiled producer method: produce
+[21/мар/2017:00:31:44,714] DEBUG MessagingAgentCompiler: Compiled 3 consumer/producer methods
+[21/мар/2017:00:31:44,727] DEBUG BtRuntime: Running startup hook: Register PEX peer activity listener
+[21/мар/2017:00:31:44,728] DEBUG BtRuntime: Running startup hook: Schedule periodic cleanup of PEX messages
+[21/мар/2017:00:31:44,729] DEBUG BtRuntime: Running startup hook: Schedule periodic peer lookup
+[21/мар/2017:00:31:44,730] DEBUG BtRuntime: Running startup hook: Initialize incoming connection acceptor
+[21/мар/2017:00:31:44,730] DEBUG BtRuntime: Running startup hook: Schedule periodic cleanup of stale peer connections
+[21/мар/2017:00:31:44,731] DEBUG BtRuntime: Running startup hook: Initialize message dispatcher
+[21/мар/2017:00:31:44,734] INFO  PeerConnectionPool: Opening server channel for incoming connections @ /192.168.137.232:6891
+[21/мар/2017:00:31:45,132] DEBUG HttpTracker: Executing tracker HTTP request of type START; request URL: http://bt.unionpeer.com:777/announce?info_hash=b%9B%D7%5E%15%9B9%03%03%E8%C1%A3%0F%E9%BA%CAP%A2%EB%C0&peer_id=-Bt%01%01%00%01-%BB%AE%B1%82Y%23%BC%D8%29a%A8%2A&ip=192.168.137.232&port=6891&uploaded=0&downloaded=0&left=0&compact=1&numwant=50&event=started
+[21/мар/2017:00:31:45,739] DEBUG HttpTracker: Executing tracker HTTP request of type QUERY; request URL: http://bt.unionpeer.com:777/announce?info_hash=b%9B%D7%5E%15%9B9%03%03%E8%C1%A3%0F%E9%BA%CAP%A2%EB%C0&peer_id=-Bt%01%01%00%01-%BB%AE%B1%82Y%23%BC%D8%29a%A8%2A&ip=192.168.137.232&port=6891&uploaded=0&downloaded=0&left=0&compact=1&numwant=50
