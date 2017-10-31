@@ -27,6 +27,6 @@ public class TorrentBot extends TelegramLongPollingCommandBot{
 
     @Override
     public String getBotToken(){
-        return "280334157:AAEnkKBycjK5jLATiV_6SdfphYuToIsiLKI";
+        return "";
     }
 }
